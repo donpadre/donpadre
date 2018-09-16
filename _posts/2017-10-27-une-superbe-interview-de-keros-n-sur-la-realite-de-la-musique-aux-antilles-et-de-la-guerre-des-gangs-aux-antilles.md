@@ -17,9 +17,9 @@ tags:
   - Gang
   - Guadeloupe
   - Musique
-categories:
-  - Musique
   - Web
   - Youtube
+categories:
+  - Musique
 ---
 <iframe src="https://www.youtube.com/embed/3Kr6uDvKxYw" width="720" height="460" frameborder="0" allowfullscreen="allowfullscreen"></iframe> Une superbe interview de Keros-n  réalisé par OKLM Radio sur la réalité de la street musique aux Antilles et de la guerre des gangs aux Antilles.    
